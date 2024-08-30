@@ -32,12 +32,19 @@ a {
     color: #a3a9bd;
 }
 
-img {
+img,
+.recipe-image {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 35%;
-    height: auto
+    height: auto;
+}
+
+.recipe-image img {
+    width: 100%;
+    border: 5px solid #a3a9bd;
+    border-radius: 40px;
 }
 
 p {
