@@ -34,6 +34,16 @@ a {
     color: #a3a9bd;
 }
 
+button {
+    background-color: #acb7c3;
+    width: 60px;
+    height: 25px;
+}
+
+button a {
+    color: #0d1b2a;
+}
+
 img,
 .recipe-image {
     display: block;
@@ -73,4 +83,12 @@ p {
     background-color: #1b263b;
     width: 50%;
     margin: 0px auto;
+}
+
+.recipe-image {
+    margin-top: 5px;
+}
+
+.recipe-title {
+    margin-top: 10px;
 }
