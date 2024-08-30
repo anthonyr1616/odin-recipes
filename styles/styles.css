@@ -55,6 +55,8 @@ p {
 .recipes {
     text-align: center;
     list-style-type: none;
+    margin-left: 0;
+    padding: 0;
 }
 
 .recipes a,
