@@ -1,0 +1,66 @@
+* {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #e0e1dd;
+}
+
+body {
+    background-color: #0d1b2a;
+}
+
+h1 {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Lucida Console", 'Trebuchet MS', sans-serif;
+    color: #708d81;
+}
+
+h2 {
+    text-align: center;
+    color: #778da9;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+    margin: 8px;
+}
+
+a {
+    color: #a3a9bd;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: auto
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.recipes {
+    text-align: center;
+    list-style-type: none;
+}
+
+.recipes a,
+.recipes li {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.section-text {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    background-color: #1b263b;
+    width: 50%;
+    margin: 0px auto;
+}
